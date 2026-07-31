@@ -1,4 +1,5 @@
 Lab Task 1
+
 Part 1. Trace It Yourself
 Input: [8, 3, 15, 6, 2]
 Output: Largest Number = 15, Sorted Array = [2, 3, 6, 8, 15]
